@@ -1,16 +1,46 @@
-## Hi there 👋
+vinsandatascience/README.md
 
-<!--
-**vinsandatascience/vinsandatascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 I'm Vinsan D,
 
-Here are some ideas to get you started:
+## 🙋 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a B.Tech Artificial Intelligence & Data Science student passionate about building intelligent applications and solving real-world problems.
+
+🎓 AI & Data Science Engineering Student  
+
+💻 Python • Java • SQL • Git & GitHub  
+
+🤖 Interested in Artificial Intelligence, Machine Learning. 
+
+☁️ Exploring Cloud & DevOps  
+
+📚 Currently learning Data Structures & Algorithms and Java OOP.  
+
+## 🛠️ Technologies & Tools:
+
+**Programming Languages**
+
+. Python
+. Java
+. SQL
+
+**Web Development**
+
+. HTML
+. CSS
+
+**Version Control**
+
+. Git
+. GitHub
+
+## 🎯 Career Focus:
+
+🤖 Artificial Intelligence & Machine Learning  
+☁️ Cloud & DevOps  
+📊 Data Science & Analytics  
+💻 Software Development
+ 
+##🔗 Connect :
+
+ 🌐LinkedIn: www.linkedin.com/in/vinsan-d-2309283b7
